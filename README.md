@@ -1,4 +1,4 @@
-
+<img src='./proj-img/screenshot-portfolio.png' />
 
 # 🚀 Larafolio — Laravel Full-Stack Portfolio System
 
