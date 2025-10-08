@@ -1,6 +1,6 @@
-<img src='./proj-img/screenshot-portfolio.png' />
-
 # 🚀 Larafolio — Laravel Full-Stack Portfolio System
+
+<img src='./proj-img/screenshot-portfolio.png' />
 
 **Larafolio** is a full-stack portfolio management system built with **Laravel**.  
 It includes authentication, an admin panel, CRUD functionality for projects and skills, and an interactive board to visualize and manage your data — all designed for developers who want a professional, dynamic portfolio.
